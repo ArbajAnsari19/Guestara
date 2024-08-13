@@ -49,7 +49,7 @@ This is a Node.js backend server for managing menus, structured into three hiera
 5. **Start the server:**
 
    ```bash
-   npm start
+   node src/index.js
    ```
 
    The server will start on `http://localhost:3000`.
